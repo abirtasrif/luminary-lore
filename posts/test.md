@@ -2,7 +2,7 @@
 title: "Test Post"
 date: "June 24 2021"
 excerpt: "This is the excert"
-cover_image: "/public/images/posts/img1.png"
+cover_image: "https://img.freepik.com/free-photo/purple-osteospermum-daisy-flower_1373-16.jpg"
 ---
 
 ## Heading Two
